@@ -1,4 +1,4 @@
-# F1-Tenth-Robo-Racer-Rear-Box
+# F1 Tenth Roboracer Rear Box
 
 A repo containing the OpenSCAD file for a rear box required for lidar detection for the F1 Tenth RoboRacer competition. 
 
